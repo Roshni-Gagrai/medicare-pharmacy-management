@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MediFlow Pharmacy Management System
 
 A pharmacy operations app built with HTML, CSS, browser JavaScript, Node.js, Express, and MySQL. It includes sign-in, a dashboard, medicine catalogue, batch-based inventory, suppliers, customers, purchases, prescription records, sales and billing, expiry monitoring, and reports.
@@ -44,3 +45,7 @@ For development, `npm run dev` restarts the server when files change.
 - Prescription-required medicines can only be sold when included in an active prescription belonging to the selected customer.
 - The default Express in-memory session store is intended for local development. Use a persistent session store and HTTPS when deploying multiple server instances or running in production.
 - Do not use the example credentials in a public deployment. Configure a unique administrator password and a random session secret.
+=======
+# medicare-pharmacy-management
+A full-stack Pharmacy Management System using HTML, CSS, JavaScript, Node.js, Express.js and MySQL.
+>>>>>>> 8ba92e016918c4d6e014aca0a03d5390ecee760d
